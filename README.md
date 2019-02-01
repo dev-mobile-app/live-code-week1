@@ -4,12 +4,11 @@
 
 ### Competencies: Conditional
 
-==============
-Shop Till Drop
-==============
+##### =============
+##### shop Till Drop
+##### ==============
 
-Instruksi 
----------
+##### Instruksi 
 
 Bu Tini sedang berbelanja di supermarket menggunakan debit card dengan sejumlah saldo.
 
@@ -25,3 +24,34 @@ Setelah saldo mencukupi, ibu Tini dihadapkan pilihan untuk membeli jenis daging 
 - Jika saldo tidak memenuhi untuk pembelian ketiga nya, maka bu Tini akan membeli indomie. Ubah nilai ShoppingBag dengan "Indomie", dan kurangi saldo dengan nilai 10000.
 
 Di akhir program, tampilkan di log "Ibu Tini membeli <nilai Shopping Bag> dan sisa uang: <nilai sisa saldo>"
+  
+  
+#### ==========================================================================
+
+## soal 2
+#### Competencies: Loopings
+##### =============
+##### Number Ladder
+##### =============
+##### Instruksi
+##### =========
+Buatlah sebuah proses beberapa penghitungan dengan menggunakan looping (boleh dengan while atau for)
+Disediakan variable height. 
+Buatlah sebuah tangga angka dengan pola berikut:
+contoh 1 (height = 3):
+1
+12
+123
+contoh 2 (height = 5):
+1
+12
+123
+1234
+12345
+ 
+contoh 3 (height = 1):
+1
+tinggi tangga sesuai dengan nilai variable height, dan isi dari tangga adalah angka dari height itu sendiri.
+##### Ketentuan
+##### ajib menggunakan looping!
+
