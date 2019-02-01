@@ -26,3 +26,21 @@ Ketentuan
 =========
 Wajib menggunakan looping!
 */
+
+var height = 0
+for(var i = 1; i <=3; i++){
+  height = String(height + i)
+  console.log(height)
+  }
+  
+var height = 0
+for(var i = 1; i <=5; i++){
+  height = String(height + i)
+  console.log(height)
+  }
+
+var height = 0
+for(var i = 1; i <=1; i++){
+  height = String(height + i)
+  console.log(height)
+  }
