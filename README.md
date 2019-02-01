@@ -1,10 +1,9 @@
 # live-code-week1
 
-##soal 1
+## soal 1
 
-// Competencies: Conditional
+### Competencies: Conditional
 
-/*
 ==============
 Shop Till Drop
 ==============
@@ -26,4 +25,3 @@ Setelah saldo mencukupi, ibu Tini dihadapkan pilihan untuk membeli jenis daging 
 - Jika saldo tidak memenuhi untuk pembelian ketiga nya, maka bu Tini akan membeli indomie. Ubah nilai ShoppingBag dengan "Indomie", dan kurangi saldo dengan nilai 10000.
 
 Di akhir program, tampilkan di log "Ibu Tini membeli <nilai Shopping Bag> dan sisa uang: <nilai sisa saldo>"
-*/
